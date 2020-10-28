@@ -1,4 +1,4 @@
 fun main(){
-    lateinit var test: Int
+//    lateinit var test: Int
 
 }
